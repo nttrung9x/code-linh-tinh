@@ -1,3 +1,5 @@
+string Proxy = "123.123.123.789:9789";
+
 ChromeOptions options = new ChromeOptions();
 
 options.AddArgument("--proxy-server=" + Proxy);
