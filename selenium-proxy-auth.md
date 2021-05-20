@@ -1,8 +1,18 @@
+ChromeOptions options = new ChromeOptions();
+
+options.AddArgument("--proxy-server=" + Proxy);
+
+options.AddArgument("load-extension=extension_proxy_auth");
+
+ChromeDriver chrome = new ChromeDriver(options);
+
+=========================================================
+
 Add agrument proxy trong code selenium dạng ip:port như proxy bình thường
 
 change user và pass ProxyAouth vào background.js nữa là xong
 
-xong tạo 2 file js này vào 1 thư mục tên bất kỳ để nó thành thư mục extension
+xong tạo 2 file js này vào 1 thư mục tên extension_proxy_auth để nó thành thư mục extension
 
 load thư mục extension vừa tạo là xong
 
