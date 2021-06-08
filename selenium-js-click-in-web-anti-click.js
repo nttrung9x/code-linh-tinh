@@ -41,5 +41,3 @@ setNativeValue(input1, '5sj4k.wam');
 var element2 = document.evaluate ('//button[@id="push-transaction-btn"]', document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
 simulateMouseClick(element2);
 
-var input2 = document.evaluate ('//button[@id="push-transaction-btn"]', document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
-setNativeValue(input2, '5sj4k.wam');
