@@ -29,3 +29,17 @@ function simulateMouseClick(element){
 
 let element =document.document.getElementById('username')
 simulateMouseClick(element);
+
+
+# Ví dụ:
+var element1 = document.evaluate ('//input[@placeholder="Enter account name..."]', document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
+simulateMouseClick(element1);
+
+var input1 = document.evaluate ('//input[@placeholder="Enter account name..."]', document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
+setNativeValue(input1, '5sj4k.wam');
+
+var element2 = document.evaluate ('//button[@id="push-transaction-btn"]', document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
+simulateMouseClick(element2);
+
+var input2 = document.evaluate ('//button[@id="push-transaction-btn"]', document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
+setNativeValue(input2, '5sj4k.wam');
