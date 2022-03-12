@@ -19,7 +19,7 @@ public void RunProfileBy_VipSoft247_Com()
     networkInterceptor.AddAuthenticationHandler(handler);
     networkInterceptor.StartMonitoring();
 
-    _driver.Navigate().GoToUrl("https://stackoverflow.com/");
+    _driver.Navigate().GoToUrl("https://VipSoft247.Com/");
 
     networkInterceptor.StopMonitoring();
     driver.Quit();
