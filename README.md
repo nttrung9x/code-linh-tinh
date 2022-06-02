@@ -4,6 +4,6 @@ https://www.facebook.com/hkvn9x/
 
 https://captcha69.com/
 
-http://ffmacros.com/home/
+[https://vipsoft247.com/](https://vipsoft247.com/)
 
 https://mmo69.com/
