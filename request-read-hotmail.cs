@@ -6,6 +6,12 @@ string e = request.postJSON("https://outlook.live.com/search/api/v1/query", post
 var listID = e.SplitAt(e.AllIndexesOf("\"ConversationId\":{\"Id\":\"").ToArray());
 MatchCollection matches = Regex.Matches(e, "\"ConversationTopic\":\"([^\"]+)");
 int mailIndex = 0;
+/*
+https://www.facebook.com/hkvn9x
+skype: nttrung9x
+https://mmo69.com
+telegram: hkvn9x
+*/
 foreach (Match match1 in matches)
 {
     mailIndex++;
