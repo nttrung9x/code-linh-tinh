@@ -8,6 +8,13 @@
 #include <Date.au3>
 #include <File.au3>
 
+#cs
+https://www.facebook.com/hkvn9x
+skype: nttrung9x
+https://mmo69.com
+telegram: hkvn9x
+#ce
+
 Global $sFFExe, $pFFPid
 Global $gTitle = "Firefox Profile - Captcha69.Com"
 
