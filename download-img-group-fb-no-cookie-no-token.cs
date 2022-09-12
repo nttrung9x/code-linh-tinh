@@ -14,6 +14,13 @@ using Newtonsoft.Json.Linq;
 using Newtonsoft.Json;
 using System.Net;
 
+/*
+https://www.facebook.com/hkvn9x
+skype: nttrung9x
+https://mmo69.com
+telegram: hkvn9x
+*/
+
 namespace Download_All_Images_Group_Facebook
 {
     public partial class Form1 : Form
