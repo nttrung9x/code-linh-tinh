@@ -1,4 +1,9 @@
-
+/*
+https://www.facebook.com/hkvn9x
+skype: nttrung9x
+https://mmo69.com
+telegram: hkvn9x
+*/
 # Safest way to clean up boot partition - Ubuntu 14.04LTS-x64, Ubuntu 16.04LTS-x64
 
 [Reference](http://askubuntu.com/questions/345588/what-is-the-safest-way-to-clean-up-boot-partition)
