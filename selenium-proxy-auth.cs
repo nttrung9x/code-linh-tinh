@@ -1,3 +1,9 @@
+/*
+https://www.facebook.com/hkvn9x
+skype: nttrung9x
+https://mmo69.com
+telegram: hkvn9x
+*/
 string Proxy = "123.123.123.789:9789";
 
 ChromeOptions options = new ChromeOptions();
