@@ -1,3 +1,9 @@
+/*
+https://www.facebook.com/hkvn9x
+skype: nttrung9x
+https://mmo69.com
+telegram: hkvn9x
+*/
 # TikTok-Scheme
 抖音、抖音极速版、tiktok 快手 等主流APP的Scheme schemas获取，**将持续更新**。。。
 
