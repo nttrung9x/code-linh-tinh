@@ -9,6 +9,12 @@ public void RunProfileBy_VipSoft247_Com()
     //options.AddArguments($"--proxy-server=http://1.1.1.1:12345");
     var driver = new ChromeDriver(ChromeDriverService.CreateDefaultService(), options, TimeSpan.FromMinutes(2));
 
+/*
+https://www.facebook.com/hkvn9x
+skype: nttrung9x
+https://mmo69.com
+telegram: hkvn9x
+*/
     NetworkAuthenticationHandler handler = new NetworkAuthenticationHandler()
     {
         UriMatcher = d => true, //d.Host.Contains("your-host.com")
