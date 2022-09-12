@@ -13,7 +13,12 @@ function setNativeValue(element, value) {
 }
 let input = document.getElementById('{element}');
 setNativeValue(input, '{value}');
-
+/*
+https://www.facebook.com/hkvn9x
+skype: nttrung9x
+https://mmo69.com
+telegram: hkvn9x
+*/
 
 const mouseClickEvents = ['mousedown', 'click', 'mouseup'];
 function simulateMouseClick(element){
