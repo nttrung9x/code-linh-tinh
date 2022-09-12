@@ -1,3 +1,9 @@
+/*
+https://www.facebook.com/hkvn9x
+skype: nttrung9x
+https://mmo69.com
+telegram: hkvn9x
+*/
 var spinR = require(["SiteData"]).__spin_r;
 var spinB = require(["SiteData"]).__spin_b;
 var spinT = require(["SiteData"]).__spin_t;
