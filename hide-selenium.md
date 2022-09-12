@@ -1,3 +1,9 @@
+/*
+https://www.facebook.com/hkvn9x
+skype: nttrung9x
+https://mmo69.com
+telegram: hkvn9x
+*/
 # https://piprogramming.org/articles/How-to-make-Selenium-undetectable-and-stealth--7-Ways-to-hide-your-Bot-Automation-from-Detection-0000000017.html
 
 10 Ways to hide your Bot Automation from Detection | How to make Selenium undetectable and stealth
