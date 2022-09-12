@@ -1,6 +1,11 @@
 [DllImport("user32.dll", SetLastError = true)]
 public static extern bool MoveWindow(IntPtr hWnd, int X, int Y, int nWidth, int nHeight, bool bRepaint);
-
+/*
+https://www.facebook.com/hkvn9x
+skype: nttrung9x
+https://mmo69.com
+telegram: hkvn9x
+*/
 public static class ListExtensions
 {
     public static List<List<T>> ChunkBy<T>(this List<T> source, int chunkSize)
