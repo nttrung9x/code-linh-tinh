@@ -1,3 +1,9 @@
+/*
+https://www.facebook.com/hkvn9x
+skype: nttrung9x
+https://mmo69.com
+telegram: hkvn9x
+*/
 public void import_cookie(string cookies)
 {
     // cookies = "c_user=100065387852794;datr=Zvh;sb=Zvh2YFMengDc8JBfd2PuMrvg;fr=1a6ztHIpinLLrD3Zk..Bgdvhm.qP.AAA.0.0.BgdviD.AWUxvseMIwQ;xs=32%3AbxpqAglBjaSk2A%3A2%3A1618409603%3A-1%3A3838;wd=351x501";
