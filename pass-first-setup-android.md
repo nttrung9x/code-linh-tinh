@@ -1,4 +1,4 @@
-![Alt text](pass-first-setup-android.jpg?raw=true "pass first setup android")
+![Screenshot](pass-first-setup-android.jpg)
 
 khi mới cài xong rom android, khởi động lên sẽ trải qua bước cài setting ngôn ngữ các thứ, chạy lệnh sau để bỏ qua những bước này và vào thẳng bên trong màn hình app chính
 
