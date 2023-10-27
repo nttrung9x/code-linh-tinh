@@ -7,7 +7,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 from time import sleep
 
-def setupDriver(driver_path=r'driver\chromedriver.exe'):
+def setupDriver(driver_path=r'chromedriver_v114_undetect.exe'):
     options = Options()
     options.add_experimental_option("excludeSwitches", ["enable-automation"])
     options.add_experimental_option('useAutomationExtension', False)
@@ -26,7 +26,7 @@ def open_link_js(driver,link):
     
 
 if __name__ == '__main__':
-    url_cloudfare = 'https://nowsecure.nl'
+    url_cloudfare = 'https://nowsecure.nl' #CaptCha69.Com - MMO69.COM
     
     driver = setupDriver()
     open_link_js(driver,url_cloudfare)
