@@ -45,7 +45,7 @@ code C#
             Dictionary<string, object> listURL = new Dictionary<string, object>();
             string[] durl = {
                         "https://cdn.livechatinc.com/tracking.js",
-                        //"https://www.livechatinc.com/chat-with/12512850/",
+                        //"https://www.livechatinc.com/chat-with/123456789/",
                         //"https://www.livechatinc.com/?welcome"
                     };
             listURL.Add("urls", durl);
