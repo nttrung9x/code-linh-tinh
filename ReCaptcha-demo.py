@@ -1,3 +1,7 @@
+# https://captcha69.com/_extensions/chrome/all.recaptcha.v6.9.captcha69.com.zip
+# Add Key Trực Tiếp Trong Path: D:\path_to\all.recaptcha.v6.9.captcha69.com\content\main.js
+# Chèn Key dạng point_xxx vào Line 25 >>> var API_KEY_CAPTCHA69 = "point_xxx";
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from time import sleep
