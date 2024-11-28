@@ -12,7 +12,9 @@ Method Code: GET / POST
 
 &sitekey: xem iframe hiển thị hcaptcha trong web mà bạn thấy
 
-Nếu sử dụng proxy (HTTP, HTTPS, SOCKS4, SOCKS5) của riêng bạn thì thêm: &proxy=username:password@123.123.123.123:3128&proxytype=HTTP
+# Bắt buộc phải có proxy đi kèm:
+
+Sử dụng proxy (HTTP, HTTPS, SOCKS4, SOCKS5) của riêng bạn thì thêm: &proxy=username:password@123.123.123.123:3128&proxytype=HTTP
 
 ( Cách dùng y chang 2captcha )
 
