@@ -1,4 +1,4 @@
-API: https://captcha69.com/in.php
+API: https://xxx.com/in.php
 
 Method Code: GET / POST
 
@@ -18,13 +18,13 @@ Sử dụng proxy (HTTP, HTTPS, SOCKS4, SOCKS5) của riêng bạn thì thêm: &
 
 ( Cách dùng y chang 2captcha )
 
-Demo: GET/POST: https://captcha69.com/in.php?key=point_xxx&method=hcaptcha&pageurl=https://2captcha.com/demo/hcaptcha&sitekey=3ceb8624-1970-4e6b-91d5-70317b70b651
+Demo: GET/POST: https://xxx.com/in.php?key=point_xxx&method=hcaptcha&pageurl=https://2captcha.com/demo/hahacapt&sitekey=3ceb8624-1970-4e6b-91d5-70317b70b651
 
 Kết quả trả về: OK|6353b3f407a9b4417aac965d
 
 6353b3f407a9b4417aac965d chính là ID
 
-Demo: GET/POST: https://captcha69.com/res.php?key=point_xxx&action=get&id=6353b3f407a9b4417aac965d
+Demo: GET/POST: https://xxx.com/res.php?key=point_xxx&action=get&id=6353b3f407a9b4417aac965d
 
 Mỗi 5s request 1 lần để chờ server giải xong sẽ trả về kết quả
 
