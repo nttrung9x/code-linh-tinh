@@ -31,7 +31,7 @@ If you want to use your own proxy (HTTP, HTTPS, SOCKS4, SOCKS5), add the followi
 
 ### Request
 ```plaintext
-GET/POST: https://captcha69.com/in.php?key=point_xxx&method=haha&pageurl=https://2captcha.com/demo/haha&sitekey=3ceb8624-1970-4e6b-91d5-70317b70b651
+GET/POST: https://captcha69.com/in.php?key=point_xxx&method=haha&pageurl=https://2captcha.com/demo/haha&sitekey=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
 ```
 
 ### Response
