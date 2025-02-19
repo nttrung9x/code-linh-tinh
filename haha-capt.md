@@ -18,7 +18,7 @@ Sử dụng proxy (HTTP, HTTPS, SOCKS4, SOCKS5) của riêng bạn thì thêm: &
 
 ( Cách dùng y chang 2captcha )
 
-Demo: GET/POST: https://xxx.com/in.php?key=point_xxx&method=haha&pageurl=https://2captcha.com/demo/hahacapt&sitekey=3ceb8624-1970-4e6b-91d5-70317b70b651
+Demo: GET/POST: https://xxx.com/in.php?key=point_xxx&method=haha&pageurl=https://2captcha.com/demo/hahacapt&sitekey=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
 
 Kết quả trả về: OK|6353b3f407a9b4417aac965d
 
