@@ -4,13 +4,13 @@ Method Code: GET / POST
 
 + Parameter:
 
-&method: hcaptcha
+&method: haha
 
 &key: point_xxx
 
-&pageurl: link web hiển thị hcaptcha mà bạn thấy
+&pageurl: link web hiển thị haha mà bạn thấy
 
-&sitekey: xem iframe hiển thị hcaptcha trong web mà bạn thấy
+&sitekey: xem iframe hiển thị haha trong web mà bạn thấy
 
 # Bắt buộc phải có proxy đi kèm:
 
@@ -18,7 +18,7 @@ Sử dụng proxy (HTTP, HTTPS, SOCKS4, SOCKS5) của riêng bạn thì thêm: &
 
 ( Cách dùng y chang 2captcha )
 
-Demo: GET/POST: https://xxx.com/in.php?key=point_xxx&method=hcaptcha&pageurl=https://2captcha.com/demo/hahacapt&sitekey=3ceb8624-1970-4e6b-91d5-70317b70b651
+Demo: GET/POST: https://xxx.com/in.php?key=point_xxx&method=haha&pageurl=https://2captcha.com/demo/hahacapt&sitekey=3ceb8624-1970-4e6b-91d5-70317b70b651
 
 Kết quả trả về: OK|6353b3f407a9b4417aac965d
 
