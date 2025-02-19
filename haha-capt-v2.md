@@ -13,10 +13,10 @@
 
 ## Required Parameters
 
-- **`method`**: `hcaptcha`  
+- **`method`**: `haha`  
 - **`key`**: `point_xxx`  
-- **`pageurl`**: URL of the page displaying hCaptcha  
-- **`sitekey`**: hCaptcha sitekey from iframe  
+- **`pageurl`**: URL of the page displaying haha  
+- **`sitekey`**: haha sitekey from iframe  
 
 ### Optional Proxy Configuration
 
@@ -31,7 +31,7 @@ If you want to use your own proxy (HTTP, HTTPS, SOCKS4, SOCKS5), add the followi
 
 ### Request
 ```plaintext
-GET/POST: https://captcha69.com/in.php?key=point_xxx&method=hcaptcha&pageurl=https://2captcha.com/demo/hcaptcha&sitekey=3ceb8624-1970-4e6b-91d5-70317b70b651
+GET/POST: https://captcha69.com/in.php?key=point_xxx&method=haha&pageurl=https://2captcha.com/demo/haha&sitekey=3ceb8624-1970-4e6b-91d5-70317b70b651
 ```
 
 ### Response
@@ -75,7 +75,7 @@ CAPCHA_NOT_READY
 
 ### Example Request
 ```plaintext
-GET/POST: https://captcha69.com/in.php?key=point_xxx&method=hcaptcha&pageurl=https://2captcha.com/demo/hcaptcha&sitekey=3ceb8624-1970-4e6b-91d5-70317b70b651
+GET/POST: https://captcha69.com/in.php?key=point_xxx&method=haha&pageurl=https://2captcha.com/demo/haha&sitekey=3ceb8624-1970-4e6b-91d5-70317b70b651
 ```
 
 ### Example Response
