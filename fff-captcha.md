@@ -57,3 +57,109 @@ Xem Tại Đây > https://github.com/nttrung9x/code-linh-tinh/blob/main/imginstr
 <br> 
 <br> Bạn Phải Get Ra Ảnh Như Này Rồi Chuyển Về Base64 Nha:
 <br> finger_direction
+
+![finger_direction](f4.jpg)
+ 
+<br> hopscotch
+
+![hopscotch](f5.jpg)
+
+<br> icon_connect
+
+![icon_connect](f6.jpg)
+
+<br> mask_match
+
+![mask_match](f7.jpg)
+
+# Hướng Dẫn Sử Dụng
+API: https://xxx/in.php
+
+Method Code: POST
+
++ Parameter:
+
+&body: send your captcha image content with Base64 Encode
+
+&key: point_6f65468fb46ed730882c1e7b866042fc
+
+&method: base64
+
+&imginstructions: câu hỏi đã lọc ( phần màu xanh phía trên )
+
+&json: 0
+
+Demo: POST: https://captcha69.com/in.php?json=0&key=point_6f65468fb46ed730882c1e7b866042fc&method=base64&imginstructions=shadow_puppets&body=/9j/2wCEAA...
+
+Sau khi request sẽ nhận về text  OK|63b9df32961ccf10c30e82d9 
+
+63b9df32961ccf10c30e82d9 là id và sẽ thay đổi mỗi lần request
+
+Thay đổi id 63b9df32961ccf10c30e82d9 cho đúng id mà bạn nhận được khi request lên /in.php
+
+Demo: GET / POST: https://captcha69.com/res.php?key=point_6f65468fb46ed730882c1e7b866042fc&action=get&id=63b9df32961ccf10c30e82d9
+
+Sau khi request lên res.php ta sẽ nhận về kết quả của captcha image  OK|ket_qua 
+
+Ví dụ kết quả là OK|3
+
+Số 3 chính là vị trí ảnh cần click trong Grid image như ví dụ bên trên
+
+Lấy Nhanh Code Base64 Images Để Test Code trong Postman: https://captcha69.com/test-api-img.php
+
+Nhớ xóa phần này => data:image/jpeg;base64,
+
+Json Postman demo: https://xxx/postman/postman-funcaptcha-captcha69.zip
+
+![postman](f8.png)
+
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
