@@ -21,8 +21,12 @@ EndFunc
 $proFilex86 = @ProgramFilesDir
 $proFilex64 = StringReplace($proFilex86,' (x86)','')
 
-$FullPathx86 = PathJoin($proFilex86,'CaptCha69.Com','@HKVN9X.au3')
-$FullPathx64 = PathJoin($proFilex64,'MMO69.Com','@HKVN9X.au3')
+$FullPath = PathJoin($proFilex86,'CaptCha69.Com','MMO69.Com','@HKVN9X.au3')
 
-ConsoleWrite($FullPathx86 & @CRLF) ; C:\Program Files (x86)\CaptCha69.Com\@HKVN9X.au3
-ConsoleWrite($FullPathx64 & @CRLF) ; C:\Program Files\MMO69.Com\@HKVN9X.au3
+If Not FileExists($FullPath) Then
+   $FullPath = PathJoin($proFilex64,'CaptCha69.Com','MMO69.Com','@HKVN9X.au3')
+EndIf
+
+ConsoleWrite($FullPath & @CRLF) 
+; C:\Program Files (x86)\CaptCha69.Com\MMO69.Com\@HKVN9X.au3
+; C:\Program Files\CaptCha69.Com\MMO69.Com\@HKVN9X.au3
